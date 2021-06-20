@@ -14,7 +14,9 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
+
       <AccountBox />
+<p>Inspiration: <em> https://www.youtube.com/watch?v=-bll7l-BKQI</em></p>
     </AppContainer>
   );
 }
